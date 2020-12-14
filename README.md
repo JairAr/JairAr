@@ -7,6 +7,6 @@ Soy un estudiante en la carrera de computacion perteneciente a la escuela de cie
 * Java
 * Javascript
 * HTML+CSS
-### Lenguajes que deseo aprender:
+### Lenguajes que tambien deseo aprender:
 * python
 * C++
